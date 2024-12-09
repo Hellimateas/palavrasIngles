@@ -1,15 +1,18 @@
 import string
 
-texto = """- Hi, guys.
-- Hey, Phoebe.
-- How did it go? - Not so good.
-He walked me home and said, "Let's do this again.
-" He said, "Let's do this again.
-" That's good, right? Translated, "Let's do this again" means, "You'll never see me naked.
-" Since when? Since always.
-It's, like, dating language.
-Like, "It's not you" means, "It is you.
-" "You're nice" means, "I'll be dating alcoholics.
+texto = """You don't understand.
+For us, kissing is as important as any part.
+Yeah, right! You serious? Oh, yeah.
+- Everything is in that first kiss.
+- Absolutely.
+For us, kissing's an opening act.
+.
+like the comedian you have to sit through.
+.
+before Pink Floyd comes out.
+And it's not that we don't like the comedian.
+It's just that that's not why we bought the ticket.
+The problem is, no matter how great the show was.
 .
 and complaining about them to you.
 " "We should see other people" means: "Ha-ha, I already am!" Everybody knows this? Cushions the blow.
@@ -272,41 +275,73 @@ There's really no easy way to say this.
 I've decided to break up with Alan.
 Is there somebody else? No, it's just.
 .
-you know, things change.
-People change.
-We didn't change.
-So that's it? It's over? Just like that? You let your guard down.
-You start to care about someone, and.
+now I'm happy.
+- Spit.
+- What? Me.
+Anyway.
 .
-- I can go on pretending - Okay! No.
-That wouldn't be fair to me, Alan, or to you.
-Well, who wants fair? I just want things back, you know, the way they were.
-- I'm sorry.
-- Oh, she's sorry.
-I feel better.
-I can't believe this! With the holidays coming up.
-I wanted him to meet my family.
-I'll meet someone.
-There'll be other Alans.
-Yeah, right! - Are you guys gonna be okay? - We'll be fine.
-We're just gonna need a little time.
-I understand.
-- Wow.
-- I'm really sorry.
-Yeah, I mean, I'm sorry too.
-- But I'm a little relieved.
-- Relieved? Yeah, well, I mean, I had a great time with you.
-I just can't stand your friends.
-Remember when we went to Central Park and rented boats? That was fun.
-He could row like a Viking.
-So how'd it go? You know.
-Did he mention us? He says he's really gonna miss you guys.
-- Rough day, huh? - You have no idea.
-Come here.
-- That's it.
-I'm getting cigarettes.
-- No! I don't care! I'm weak! I've gotta have the smoke! If you never smoke again, I'll give you $7000.
-Yeah, all right."""
+I guess this belongs to you.
+Or maybe some day Mindy.
+Like she'd settle for that.
+Yeah, that's true.
+But I think it's a nice ring.
+.
+and thank you for giving it to me.
+Thank you for giving it back.
+Hello! - Please, what's wrong with Helen? - Helen Geller? - I don't think so.
+- It's not gonna be Helen Geller.
+- Thank you.
+- No, I mean, it's not Geller.
+It'll be Helen Willick? No, actually, we talked about Helen Willick Bunch.
+Wait a minute.
+Why is she in the title? It's my baby too.
+Really? I don't remember you making any sperm.
+And we all know what a challenge that is.
+- You two, stop it.
+- She gets a credit.
+I'm in there too.
+Helen Willick Bunch Geller? I think that borders on child abuse.
+Of course not.
+I'm suggesting Geller Willick Bunch.
+See what he does? He knows no one's gonna say all those names.
+They'll call her Geller.
+He gets his way.
+My way? You think this is my way? Of all the ways I ever imagined this moment being.
+.
+this is not my You know what? This is too hard.
+Knock, knock.
+How are we? Any nausea? - A little.
+- Just a little.
+I was wondering about the mother-to-be, but thanks for sharing.
+- Lie back.
+- You know what? I'm gonna go.
+I don't think I can be involved in this family thing.
+- Oh, my God! - Look at that.
+I know.
+Well, isn't that amazing? What are we supposed to be seeing here? I don't know, but I think it's about to attack the Enterprise.
+If you tilt your head and relax your eyes.
+.
+it kind of looks like an old potato.
+Then don't do that, all right? Monica, what do you think? - Are you welling up? - No.
+- You are.
+You're welling up.
+- I'm not.
+- You're gonna be an aunt.
+- Oh, shut up.
+Hi, Mindy.
+Hi, it's Rachel.
+Yeah, I'm fine.
+I saw Barry today.
+Yeah, he told me.
+No, it's okay.
+Really, it's okay.
+I hope you two are very happy.
+I really do.
+And, Min, you know, if everything works out.
+.
+and you guys get married and have kids.
+.
+I hope they have his hairline and your nose! That was a cheap shot, but I feel so much better now!"""
 
 def extrair(texto):
     texto_limpo = texto.translate(str.maketrans('','', string.punctuation)).lower()
