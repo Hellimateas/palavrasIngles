@@ -1,347 +1,326 @@
 import string
 
-texto = """You don't understand.
-For us, kissing is as important as any part.
-Yeah, right! You serious? Oh, yeah.
-- Everything is in that first kiss.
-- Absolutely.
-For us, kissing's an opening act.
-.
-like the comedian you have to sit through.
-.
-before Pink Floyd comes out.
-And it's not that we don't like the comedian.
-It's just that that's not why we bought the ticket.
-The problem is, no matter how great the show was.
-.
-and complaining about them to you.
-" "We should see other people" means: "Ha-ha, I already am!" Everybody knows this? Cushions the blow.
-Like your parents putting the dog to sleep.
-.
-and saying it went to a farm.
-That's funny.
-Because our parents actually did.
-.
-send our dog off to live on a farm.
-Ross? Hello! The Milner's farm in Connecticut? The Milners had this unbelievable farm.
-They had horses and rabbits to chase.
-And it was.
-.
-Oh, my God! Chi-Chi! The One With the Thumb How does it feel knowing you're about to die? Warden, in five minutes my pain will be over.
-But you'll live with the knowledge that you sent an honest man to die.
-That was really good! Thanks.
-Let's keep going.
-So, what do you want from me, Dimon? Huh? I just wanna go back to my cell, because in my cell I can smoke.
-Smoke away! I think this is why Dimon smokes in his cell alone.
-- What? - Relax your hand.
-Let your wrist go.
-Not so much! All right.
-Now take a puff.
+texto = """All right, Phoebe? If I were omnipotent for a day, I would want world peace no hunger, good things for the rain forest.
+And bigger boobs.
+Well, see, you took mine.
+What about you? If I were omnipotent for a day, I'd make myself omnipotent forever.
+There's always one guy.
+"lf I had a wish, I'd wish for three more wishes.
+" Hey, Joey.
+What would you do if you were omnipotent? Probably kill myself.
+Excuse me? If little Joey's dead, then I got no reason to live.
+Joey, omnipotent.
+You are? Ross, l' m sorry.
+I had no idea.
+I thought it was a theoretical question.
+The One With the George Stephanopoulos How does she do that? I can't sleep in a public place.
+Libraries, airplanes, movie theaters.
+You slept at the Grand Canyon.
+Hello, Mom and Dad never took us to the Grand Canyon.
+Mom and Dad took us to the Grand Canyon? Would you look at her? She is so peaceful.
+Yeah.
+What? What? What? -Hi.
+-It's okay.
+You just nodded off again.
+What's going on? I got no sleep last night.
+My grandmother has a new boyfriend and they' re both kind of insecure in bed, so And deaf.
+They reassure each other that they' re having a good time.
+You have no idea how loud they are.
+-You can stay with Rachel and me.
+-Thanks.
+Less than 1 00 steps from our place to here.
+You got way too much free time, man.
+There's the birthday boy.
+Hockey tickets.
+Rangers-Penguins tonight and we're taking you.
+-Happy birthday, pal! -We love you, man.
+It's funny.
+My birthday was seven months ago.
+-So? -So you had an extra ticket and couldn't decide who got to bring a date? Well, aren't we Mr.
+The-Glass-ls-Half-Empty? Oh, my God! Is today the 20th? October 20th? -I hoped you wouldn't remember.
+-What's wrong with the 20th? Eleven days before Halloween.
+All the good costumes are gone? T oday's the day Carol and I first consummated our physical relationship.
+Sex.
+-You told your sister that? -Believe me, I told everyone.
+I better pass on the game.
+I'm just gonna go home and think about my ex-wife and her lesbian lover.
+The hell with hockey! Let's all do that! Come on, Ross! You, me, Joey, ice! Guys' night out! Come on, what do you say, big guy? -What are you doing? -I have no idea.
+-Come on, Ross.
+-Maybe it will take my mind off it.
+-Promise to buy me a big foam finger? -You got it.
+Look, look, look! My first paycheck! Look at the window! There's my name! Hi, me! I remember when I got my first paycheck.
+There was a cave-in in a mine, and eight people were killed.
+-You worked in a mine? -No, I worked at a Dairy Queen.
+Why? Isn't this exciting? I earned this.
+I wiped tables for it.
+I steamed milk.
+And it was totally not worth it.
+What's FlCA? Why's he getting all my money? I mean, what? Chandler, look at that.
+This is not that bad.
+You're fine, yeah, for a first job.
+You can totally, totally live on this.
+Oh, yeah.
+Yeah.
+-By the way, great service today.
+-Yeah.
+-Hockey! -Hockey! -Hockey! -Hockey.
+Rachel? Oh, my God! I swear I've seen birds do this on Wild Kingdom.
+What are you doing here? We were in the city shopping, and your mom said you work here, and it's true! Look at you in the apron.
+You look like you're in a play.
+God, look at you! You're so big! I can't believe it! I know, I know! I'm a duplex.
+IKiki, you look phenomenal.
+I mean, you've lost, like, a ton of weight.
+And you should really, really It's time to stop, you look perfect.
+What's going on? Well, guess who my dad's making partner in his firm? And while we're on the subject of news.
+Look, look! I have elbows! Passes it up to Leetch.
+Leetch spots Messier.
+Here's the pass! We'll take a time-out while Messier looks at some women's shoes.
+Carol was wearing boots just like those the night that we first.
+You know? In fact, she.
+She never took them off.
+It's because we Sorry, sorry.
+I can't believe -What? -Peach pit.
+Yes, bunny? Peach pit.
+That night, we had -Peaches? -Actually, nectarines but.
+Could've been a peach.
+Then we Then we got dressed and I walked her to the bus stop.
+I' m fine.
+Hey, that woman's got an ass like Carol's.
+What? I thought we were trying to find stuff.
+Come on, you guys.
+T ell me all the dirt.
+Well, the biggest news is still you dumping Barry at the altar.
+-Let's talk reality for a second.
+-Okay.
+-When are you coming home? -What? Guys, l' m not.
+-Come on.
+This is us.
+-l' m not.
+This is what l' m doing now.
+I've got this job.
+I even do my own laundry.
+-This is what l' m doing now.
+-Waitressing? I' m not just waitressing.
+I mean, l' m.
+I write the specials on the specials board.
+And I take the dead flowers out of the vase.
+Sometimes Arturo lets me put the chocolate blobbies on the cookies.
+Well, your mom didn't tell us about the blobbies.
+Hey, Rach.
+How was it with your friends? Okay, how would you like some Tiki Death punch? -What's that? -Well, it's rum and Okay.
+Since Phoebe's staying, we'll have a slumber party.
+We got trashy magazines.
+We got cookie dough.
+We got Twister.
+And I brought Operation.
+But I lost the tweezers so we can't operate.
+But we can prep the guy.
+-Rach, it's the Visa card people.
+-Oh, God.
+Ask them what they want.
+Could you please tell me what this is in reference to? There's been unusual activity on your account.
+I haven't used my card in weeks.
+That is the unusual activity.
+They wanna see if you're okay.
+They wanna know if I'm okay? Okay, let's see.
+Well, let's see.
+The FlCA guys took all my money.
+Everyone is getting married or pregnant or promoted.
+And I'm getting coffee.
+And it's not even for me! If that sounds like I'm okay, then tell them I'm okay.
+Okay? Rachel has left the building.
+Can you call back? All right! Come on! Let's play Twister! -Sorry.
+-Sorry.
+Sorry, sorry.
+There was ice that night with Carol? Plastic seats? Four thousand angry Pittsburgh fans? No, I was just saying we're not sitting together.
+But now that you mention it, there was ice that night.
+It was the first frost.
+Sit.
+Just sit down.
+Sit.
+You're doing this amazing independent thing.
+Monica, what is so amazing? I gave up, like, everything.
+And for what? -You are just like Jack.
+-Jack from downstairs? No, Jack and the Beanstalk.
+Ah, the other Jack.
 Right.
-- Give it to me.
-- I'm not giving you a cigarette.
-It's fine.
-Do you want to get this part or not? Here.
-When you hold it, you feel right.
-You feel complete.
-- You miss it? - No, not so much.
+He gave up something but then he got those magic beans.
+And then he woke up and there was this big plant outside of his window, full of possibilities.
+He lived in a village, and you live in the Village.
+Okay.
+But, Pheebs, Jack gave up a cow.
+I gave up an orthodontist.
+-Okay, I know I didn't love him.
+-Oh, see, Jack did love the cow.
+But, see, it was a plan.
+It was clear.
+Everything was figured out.
+Now it's like.
+-Floopy? -Yeah.
+We don't know where we' re going.
+It's all gonna come together and it's just gonna be un-floopy.
+Yeah, like that's a word.
+Okay.
+But Monica, what if it doesn't come together? Pheebs? Well, because you just I don't like this question.
+See, you guys? What if we don't get magic beans? I mean, what if all we've got are beans? Get him! Get him! Get him! Yes! You're not laughing now, are you, pal? All you needed were guys hitting each other with sticks.
+Pass it! Pass it! -He's open! He's open! -Shoot it! Shoot it! Hey, look, we're on that TV thing.
+Excuse me? It says to call if you're not satisfied with this candy bar.
+Well, I'm not completely satisfied.
+Well, the label promises nutty goodness.
+It's an emergency.
+But you know that, or we'd be in the predicament room.
+Hold on.
+Fill these out.
+Sit over there! I don't want to make any trouble but I'm in a lot of pain.
+-My face is dented.
+-Well, you'll have to wait your turn.
+-How long do you think it will be? -Any minute now.
+Hey, this I' m so sorry, you guys.
+I didn't mean to bring you down.
+No, you were right.
+I don't have a plan.
+-Pizza guy.
+-Food! -Phoebe? -What? -Do you have a plan? -I don't even have a " pla.
+" One mushroom, green pepper and onion? No, no, no.
+That's not what we ordered! We ordered a fat-free crust with extra cheese! Wait.
+You' re not G.
+Stephanopoulos? Man, my dad's gonna kill me! Wait! Did you say G.
+Stephanopoulos? Yeah, this one goes across the street.
+I gave him yours.
+Bonehead! Bonehead! When you do that, you're only hitting yourself.
+Was this a small Mediterranean guy with curiously intelligent good looks? -That sounds right.
+-Was he wearing a stunning blue suit? -And a power tie? -No, pretty much just a towel.
+-Oh, God! -You guys want me to take this back? What, are you nuts? We've got George Stephanopoulos' pizza! Pheebs, who's George Snuffleupagus? That's Big Bird's friend.
+-I see pizza! -I want to see.
+Let me see.
+Hello! Who are we spying on? White House adviser, Clinton's campaign guy.
+The one with the great hair, sexy smile, cute butt.
+Oh, him! The little guy.
+Oh, I love him! -Wait.
+Wait, I see a woman.
+-T ell me it's his mother.
+-Definitely not his mother.
+-Oh, no! Wait, she's walking across the floor.
+She's walking, she's walking.
+She's going for the pizza That's not for you, bitch! We've been here for over an hour, and people less sick have gone in.
+That guy with the toe thing, who's he sleeping with? Oh, come on, Dora.
+Don't be mad.
+I know we both said some things we didn't mean but that doesn't mean we still don't love each other.
+You know, I feel like I've lost her.
+-Come on, push me.
+-No.
+-Push me.
+-We' re gonna get in trouble.
+Don't be a baby.
+Push me.
+Push me.
 All right.
-Now we smoke.
-Oh, my God! - Give me that! - No.
-You've got options.
-You can smoke like this: - Chandler - Or hold it in your mouth.
-Give me the cigarette! - You try.
-- Thank you.
-Okay, how's this? Okay, that's not bad.
-All right, when you're finished, it's cool if you flick it.
-All right, you keep practicing.
-.
-and I'll go put out the sofa.
-I thought it was foot size.
-No.
-It's the distance from the tip of a guy's thumb.
-.
-to the tip of his index finger.
-That's ridiculous.
-Can I use either thumb? I'd rather go with the foot theory.
-All right.
-Don't tell me.
-Decaf cappuccino for Joey.
-Coffee, black.
-Latte.
-And an iced tea.
-- I'm getting good at this.
-- Excellent! Good for me! - You okay, Phoebe? - It's not worth It's my bank.
-- What did they do? - It's nothing I get my mail and open their monthly "statement.
-" Easy! And there's $500 extra in my account.
-Satan's minions at work again! Now I have to go deal with them - What are you talking about? Keep it! - It's not mine.
-If I kept it, I'd be stealing.
-But if you spent it, it would be like shopping.
-Say I bought a great pair of shoes.
-Know what I'd hear with every step? "Not mine.
-Not mine.
-Not mine.
-" Even if I was happy and skipping, I'd hear: "Not-not mine.
-Not-not mine.
-" We're with you.
-We got it.
-I'd never be able to enjoy it.
-It'd be this giant karmic debt.
-Chandler, what are you doing? What are you doing? Oh, gross! - What is this? - I'm smoking! You've been so good for three years! And this is my reward.
-Think about what you went through when you quit.
-Forget about you.
-Think about what we went through! So this time I won't quit.
-- Put it out! - I'm putting it out! Oh, no! I can't drink this now.
-I'm gonna go.
-I've got a date.
-With Alan again? How's it going? It's going pretty good.
-It's nice and we're having fun.
-When do we get to meet him? Let's see, it's Monday.
-.
-- Never.
-- Come on! Not after what happened with Steve.
-What do you mean? We love Steve.
-Steve was sexy! Sorry.
-I don't know how I feel yet.
-Let me figure it out.
-Then can we meet him? No.
-Sorry.
-Joey.
-Let it go.
-Why should they meet him? I bring a guy home and they're like.
-.
-coyotes picking off the weak members of the herd.
-Listen, as someone who's seen more than her share of bad beef.
-.
-I'll tell you, that is not such a terrible thing.
-Your friends are just looking after you.
-I wish that once I'd date a guy they liked.
-You realize the odds of that happening are slimmer.
-.
-- if they never get to meet the guy.
-- I know.
-- Can't I whimper a little bit? - Whimper.
-Okay, I'm done.
-Let it go, Ross.
-You didn't know Chi-Chi.
-- Do you all promise? - We promise.
-We'll be good.
-Chandler, do you promise to be good? You can come in, but your filter-tip buddy stays outside! "Dear Ms.
-Buffay.
-Thank you for calling.
-We've credited you $500.
-We're sorry for the inconvenience.
-.
-and hope you'll accept this football phone.
-.
-as our gift.
-" Do you believe it? Now I have $ 1000 and a football phone.
-What bank is this? Okay, it's him.
-- Who is it? - Alan.
-Chandler! He's here! Do I look okay? One more button.
-Closed! How about closed? - I didn't know.
-- Yeah.
-Please be good.
-Remember how much you all like me? Alan, this is everybody.
-Everybody, this is Alan.
-I've heard so much about all you guys.
-I'll call you tomorrow.
-Thanks.
-Let's let the Alan-bashing begin.
-Who's gonna take the first shot? Come on! I'll go.
-Let's start with how he kept picking I'm sorry, I can't do this.
-We loved him.
-We loved him! Wait! We're talking about someone I'm going out with? That pimento trick! I'll never look at an olive the same way again.
-And did you notice? Know what was great? His smile was crooked.
-- Yes! Like the man in the shoe! - What shoe? From the rhyme.
-There was a man With a crooked smile Who lived in a shoe For a while So I think Alan.
-.
-is the yardstick by which future boyfriends will be measured.
-Future boyfriends? - I think this could be "it.
-" - Really? I'd marry him for his David Hasselhoff impression alone.
-You know I'll be doing that at parties.
-- Know what I like most? - What? The way he makes me feel about myself.
-How was the game? Well.
-.
-We won! Fantastic! Question.
-How is that possible? - Alan.
-- He was unbelievable! Like the cartoon where Bugs Bunny plays every position.
-It was first base, Alan.
-Second base, Alan.
-.
-It was like he made us into a team.
-We sure showed those Hasidic jewelers a thing or two about softball.
-Can I ask a question? Do you think Alan is sometimes.
-.
-What? I don't know.
-A little too "Alan"? Oh, no.
-Not possible.
-You can never be too "Alan.
-" It's his innate "Alan-ness" that we adore.
-I, personally, could have a gallon of Alan.
-- Hey, Lizzy.
-- Hey, weird girl.
-- I brought alphabet soup.
-- Pick out the vowels? I left in the Y's.
-Because, "sometimes Y.
-" - And something else.
-- Saltines? No, $1000 and a football phone.
-What? Oh, my God! - There's really money in here.
-- I know.
-What are you doing? I want you to have it.
-I don't want it.
-- I have to give you something.
-- No, you don't - Do you want my tinfoil hat? - No, you need that.
-- It's okay.
-Thanks.
-- Let me do something.
-I'll tell you what.
-Buy me a soda and we're even.
-Okay? - Okay.
-- Okay.
-Keep the change.
-Thanks, Lizzy.
-Want a pretzel? - No, I'm fine.
-Thanks.
-- See you.
-A thumb? I know.
-There it was, just floating.
-.
-like this tiny little hitchhiker.
-Maybe it's a contest.
-Like "collect all five.
-" - Does anyone wanna see? - No, thanks! Don't do that.
-Come on! It's worse than the thumb.
-- This is so unfair.
-- Why is it unfair? So I have a flaw! Big deal! Joey's knuckle-cracking isn't annoying? Ross, over-pronouncing every word.
-Monica, who snorts when she laughs.
-I mean, what the hell is that thing? I accept those flaws.
-Why can't you accept me for this? Does the knuckle-cracking bother everybody, or just him? I could live without it.
-Is it a little annoying? Or is it like when Phoebe chews her hair? Don't listen to him.
-I think it's endearing.
-Oh, you do, do you? There's nothing wrong with speaking correctly.
-Indeed there isn't.
-I should get back to work.
-Otherwise someone might get what they ordered.
-The hair comes out and the gloves come off.
-Ever go out with a guy your friends really like? No.
-I'm going out with a guy my friends really like.
-Are we talking about the coyotes here? All right! A cow got through.
-Can you believe it? It's just, you know what? I just don't feel the "thing.
-" They feel the thing.
-I don't feel it.
-Honey, you should always feel the thing.
-If that's how you feel about the guy, dump him.
-- It's gonna be really hard.
-- He'll get over it.
-No, he'll be fine.
-It's the other five I'm worried about.
-- Don't you respect your body? - Don't you see what you're doing? I've had it with your cancer, emphysema and heart disease.
-The bottom line is, smoking is cool, and you know it.
-Alan wants to speak to you.
-Really? He does? Hey, buddy! What's up? She told you about that, huh? Well, yeah.
-I have one now and then.
-Well, yeah, now.
-It's not that Well, that's true.
-Gee, you know, no one's ever put it like that before.
-Well, okay.
-Thanks.
-God, he's good.
-- If only he were a woman.
-- Yeah.
-Lamb Chop! How old is that sock? If I had a sock on my hand for 30 years, it'd be talking too.
-I think it's time to change somebody's nicotine patch.
-- Where's Joey? - Joey ate my last stick of gum.
-.
-so I killed him.
-Do you think that was wrong? - I think he's across the hall.
-- Thanks.
-There you go.
-I'm alive with pleasure now.
-Phoebe, do you want the rest of that Pop-Tart? Does anyone want the rest of this Pop-Tart? Hey, I might.
-I'm sorry.
-The soda people gave me $7000 for the thumb.
-And on my way over here I stepped in gum.
-What is up with the universe? - What's going on? - It's just nice when we're together.
-It's nicer when everyone gets to wear underwear.
-Please, guys, we have to talk.
-Wait! I'm getting a deja vu.
-No, I'm not.
-- We have to talk.
-- There it is! Okay, it's about Alan.
-Speaking of which, tell him we're on for the Renaissance Fair.
-Before you get into that, there's something you should know.
-There's really no easy way to say this.
-I've decided to break up with Alan.
-Is there somebody else? No, it's just.
-.
-now I'm happy.
-- Spit.
-- What? Me.
-Anyway.
-.
-I guess this belongs to you.
-Or maybe some day Mindy.
-Like she'd settle for that.
-Yeah, that's true.
-But I think it's a nice ring.
-.
-and thank you for giving it to me.
-Thank you for giving it back.
-Hello! - Please, what's wrong with Helen? - Helen Geller? - I don't think so.
-- It's not gonna be Helen Geller.
-- Thank you.
-- No, I mean, it's not Geller.
-It'll be Helen Willick? No, actually, we talked about Helen Willick Bunch.
-Wait a minute.
-Why is she in the title? It's my baby too.
-Really? I don't remember you making any sperm.
-And we all know what a challenge that is.
-- You two, stop it.
-- She gets a credit.
-I'm in there too.
-Helen Willick Bunch Geller? I think that borders on child abuse.
-Of course not.
-I'm suggesting Geller Willick Bunch.
-See what he does? He knows no one's gonna say all those names.
-They'll call her Geller.
-He gets his way.
-My way? You think this is my way? Of all the ways I ever imagined this moment being.
-.
-this is not my You know what? This is too hard.
-Knock, knock.
-How are we? Any nausea? - A little.
-- Just a little.
-I was wondering about the mother-to-be, but thanks for sharing.
-- Lie back.
-- You know what? I'm gonna go.
-I don't think I can be involved in this family thing.
-- Oh, my God! - Look at that.
-I know.
-Well, isn't that amazing? What are we supposed to be seeing here? I don't know, but I think it's about to attack the Enterprise.
-If you tilt your head and relax your eyes.
-.
-it kind of looks like an old potato.
-Then don't do that, all right? Monica, what do you think? - Are you welling up? - No.
-- You are.
-You're welling up.
-- I'm not.
-- You're gonna be an aunt.
-- Oh, shut up.
-Hi, Mindy.
-Hi, it's Rachel.
-Yeah, I'm fine.
-I saw Barry today.
-Yeah, he told me.
-No, it's okay.
-Really, it's okay.
-I hope you two are very happy.
-I really do.
-And, Min, you know, if everything works out.
-.
-and you guys get married and have kids.
-.
-I hope they have his hairline and your nose! That was a cheap shot, but I feel so much better now!"""
+I' m gonna push you, okay? How about I push you like this? Now you're gonna be in a wheelchair the rest of your life, pally-wally.
+I am so very sorry.
+Can I sign you? -Lights still out? -Yeah.
+Well, maybe they' re napping.
+-Please.
+They' re having sex.
+-Shut up! So, what do you think George is like? -I think he's shy.
+-Yeah.
+Yeah.
+I think you have to draw him out.
+And then when you do, he's a preppy animal.
+-What do you think of the guys? -Our guys? -Yeah, our guys.
+-I feel funny talking about that.
+-Oh, come on.
+-Okay.
+Well.
+I think Joey's like a little kiddie ride.
+You just have to put the quarter in and it just goes.
+He might surprise you.
+One time, he helped me put on my coat and he was really tender.
+Come on, baby, come on.
+Let's go.
+Yes! Chandler's one of those repressed guys who you'd have to seduce.
+I think it's an act.
+Chandler is more sophisticated than he seems.
+-You know who's kind of sexy? -Don't.
+-Ross.
+-No, guys.
+Please, he is my brother.
+I know exactly what you mean.
+He can be really smooth.
+Can't you just picture him in bed? I really don't want to.
+Come on, laugh.
+Laugh.
+I remember the moonlight coming in the window, and her face had the most incredible glow.
+The moon, the glow, the magical feeling.
+You did this.
+Could I get some painkillers over here, please? He's right.
+Enough.
+What's the big deal about today? So you slept with her for the first time.
+You slept with her for seven years after that.
+It's a little more complicated What is it, that she left you for another woman that likes women? Louder.
+There's a man on the 1 2th floor in a coma who didn't hear you.
+Then, what? My first time with Carol was was my.
+What? It was my first time.
+With Carol? Oh.
+So, in your whole life, you've only been with one? Oh, boy.
+Hockey was a big mistake.
+There's a bunch of stuff we could've done tonight.
+Okay, I got one.
+Do you remember that vegetarian pate that I made that you loved so much? Well, unless goose is a vegetable! Now I don't feel so bad about sleeping with Jason Hurley.
+-What? You slept with Jason? -You had already broken up.
+-How long? -Just a couple hours.
+-Oh, that's nice! -Okay, okay, okay, I got one! Anyway, the valentine T om left in your locker was really from me! Excuse me? Hello! Like he was really gonna send you one.
+She was a big girl! Really? Well, at least big girls don't pee in their pants in seventh grade! I was laughing.
+You made me laugh! Oh, my God! There he is! There he is! -Where? -Where we've been looking all night.
+-He's so cute.
+-George, baby, drop the towel.
+-Come on, drop the towel.
+-Drop it.
+Will you please drop it? Wow! Man, can you believe he's only had sex with one woman? I think it's great.
+You know, it's sweet.
+It's romantic.
+Really? You kidding? The guy's a freak.
+I judge him.
+-Hey, man! -Hey, buddy! Oh, that's attractive.
+I thought you were great in Silence of the Lambs.
+Admit it, all things considered, you had fun tonight.
+Fun? Where was the fun? T ell me which part was fun.
+Where's my puck? -The kid has it.
+-The kid Excuse me, that's my puck.
+I found it.
+Finders keepers, losers weepers.
+You gotta do it, man.
+I' m rubber, you' re glue.
+Whatever you I can't do it.
+-Listen, give me back my puck.
+-No.
+-Yes, how about? -No.
+-Give me my puck.
+-No.
+No roughhousing in my ER! Give me my puck! Now that was fun.
+Okay, Monica.
+Right foot, red.
+We could've played Monopoly, but no! Thanks.
+Okay, Pheebs.
+Right hand, blue.
+Ross, switch with me and Phoebe could be number two.
+Nothing.
+It's a Twister thing.
+The rules are on the back of the box.
+Hello? It's the Visa card people.
+-Okay.
+Will you take my place? -All right.
+This is Rachel.
+No! Hello? Oh, yeah.
+No, I know.
+I haven't been using it much.
+Oh, well, thanks.
+But l' m okay, really.
+-To the green.
+-Oh, no.
+I've got magic beans.
+No, no, never mind.
+T o the left! T o the left! I' m fine."""
+
 
 def extrair(texto):
     texto_limpo = texto.translate(str.maketrans('','', string.punctuation)).lower()
